@@ -1,0 +1,383 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainDiv {
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.topSection {
+    width: 100vw;
+    height: 6.5vh;
+    background-color: black;
+}
+
+.topHeading {
+    margin-left: 16vw;
+    width: 70vw;
+    height: 6.5vh;
+}
+
+h3 {
+    font-weight: normal;
+    text-align: center;
+    position: absolute;
+    top: -30px;
+    font-size: 40px;
+    left: 358px;
+    color: white;
+}
+
+.barIcon {
+    margin-left: 1167px;
+}
+
+.background {
+    background-image: url(Images/wallpaperflare.com_wallpaper.jpg);
+    height: 1000px;
+    width: 100%;
+}
+
+.headerContentMainDiv {
+    width: 500px;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -350px;
+}
+
+.headerContent {
+    margin-top: 50px;
+    color: rgb(17, 41, 18);
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+.insideImage {
+    opacity: 0.2;
+    margin-left: 600px;
+    margin-top: -812px;
+    width: 769px;
+    height: 350px;
+    background-color: rgb(32, 119, 44);
+}
+
+.secondSection {
+    width: 1100px;
+    height: 545px;
+    margin-top: 800px;
+    margin-left: 380px;
+}
+
+.img {
+    width: 570px;
+    height: 496;
+    margin: 60px auto 0 0;
+    box-shadow: 0 0 40px rgb(26 26 26 / 40%);
+}
+
+.SecondImg {
+    width: 572px;
+    height: 365px;
+    box-shadow: 0 0 31px rgb(26 26 26 / 55%);
+    margin: -85px 279px 0 303px;
+}
+
+.imgSide {
+    width: 548px;
+    height: 417px;
+    margin: 60px 0 0 630px;
+    position: absolute;
+}
+
+.text {
+    font-size: 50px;
+    font-weight: 400;
+    color: black;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+
+.greenLine {
+    width: 70px;
+    height: 3px;
+    background-color: #81c132;
+    margin-top: 195px;
+}
+
+.doubleQuotesDiv {
+    width: 303px;
+    height: 243px;
+    margin-top: -247px;
+}
+
+.doubleQuotes {
+    width: 100px;
+    height: 100px;
+    opacity: .1;
+}
+
+.doubleQuotesText {
+    width: 303px;
+    height: 233px;
+    margin-top: -90px;
+    margin-left: 10px;
+}
+
+.SecondImgRightTxt {
+    width: 385px;
+    height: 253px;
+    background-color: white;
+    margin-left: 755px;
+    margin-top: -320px;
+    position: absolute;
+}
+
+.greydiv {
+    width: 452px;
+    height: 419px;
+    background-color: #e5e5e5;
+    margin: 490px 0 0 1045px;
+}
+
+.thirdSectionFirstImage {
+    margin: -230px 0 0 850px;
+    width: 457px;
+    height: 309px;
+    /* margin: 60px auto 0 0; */
+    box-shadow: 0 0 40px rgb(26 26 26 / 40%);
+}
+
+.thirdSectionSecondImage {
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: -655px;
+    width: 387px;
+    height: 477px;
+    /* margin: 60px auto 0 0; */
+    box-shadow: 0 0 40px rgb(26 26 26 / 40%);
+}
+
+.thirdSectionFont {
+    margin-top: -480px;
+    margin-left: 396px;
+    width: 404px;
+    height: 494px;
+}
+
+.fourthSection {
+    margin-top: 20px;
+    width: 100%;
+    height: 1046px;
+    background-color: #81c132;
+}
+
+.container {
+    margin-top: 140px;
+    position: absolute;
+    display: flex;
+    width: 1160px;
+    height: 881px;
+    margin-left: 380px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five,
+.six {
+    margin-left: 13px;
+    width: 366.66px;
+    height: 405.5px;
+    background-color: white;
+}
+
+.four,
+.five,
+.six {
+    opacity: 0.7;
+}
+
+.cardHeading {
+    margin: 20px 0 0 30px;
+    width: 300px;
+    height: 100px;
+    color: #346473;
+    font-family: Merriweather, serif;
+}
+
+.sl1 {
+    font-size: 63px;
+    width: 80px;
+    height: 100px;
+}
+
+.sl1Head {
+    margin: -100px 0 0 80px;
+    width: 180px;
+    height: 100px;
+}
+
+.bImg {
+    background-position: 50% 18.34%;
+}
+
+.fifthSection {
+    width: 100%;
+    height: 779px;
+    margin-top: -40px;
+}
+
+.fifth1stSection {
+    text-align: center;
+    width: 800px;
+    margin: 120px 0 0 580px;
+    height: 200px;
+}
+
+.fifth2ndSection {
+    width: 1140px;
+    height: 394px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.whitediv {
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    background-color: white;
+    margin: -220px 0 0 14px;
+}
+
+.whitetext {
+    text-transform: uppercase;
+    font-size: 1.125rem;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif !important;
+    text-align: center;
+}
+
+.border {
+    font-weight: normal;
+    font-size: 15px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 8px 18px 8px 18px;
+    text-decoration: none;
+    margin: 60px 0 0 870px;
+    position: absolute;
+    color: #454545 !important;
+    border-color: #454545 !important;
+}
+
+.S6 {
+    width: 100%;
+    height: 577px;
+}
+
+.S6header {
+    width: 800px;
+    height: 176px;
+    margin-left: 30%;
+    position: absolute;
+}
+
+.S6thought {
+    width: 365px;
+    height: 180px;
+    margin: -300px 0 0 417px;
+    position: absolute;
+    font-weight: normal;
+}
+
+.S7 {
+    margin-top: -201px;
+    width: 100%;
+    height: 497px;
+    background-color: #e5e5e5
+}
+
+.S7whitediv {
+    width: 407px;
+    height: 282px;
+    background-color: white;
+    margin: -211px 0 0 1000px;
+    position: absolute;
+}
+
+.S8 {
+    width: 100%;
+    height: 613px;
+    /* background-color: ; */
+}
+
+.S8Container {
+    width: 1200px;
+    height: 268px;
+    margin: -330px 0 0 340px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.S8-1,
+.S8-2,
+.S8-3,
+.S8-4 {
+    width: 277px;
+    height: 268px;
+}
+
+footer {
+    margin-top: 90px;
+    width: 100%;
+    height: 299px;
+    background-color: #293133;
+    color: #ffffff;
+}
+
+.footerdiv {
+    width: 1140px;
+    height: 299px;
+    margin-left: 377px;
+}
+
+.footerQoutes {
+    width: 538px;
+    height: 100px;
+    font-size: 20px;
+    font-weight: 100;
+    margin: 60px 0 0 351px;
+    position: absolute;
+}
+
+.footerUnderline {
+    width: 1239px;
+    height: 1px;
+    background-color: #a39c9c;
+    margin: 180px 0 0 -47px;
+    position: absolute;
+}
+
+.underFooter {
+    width: 100%;
+    height: 65.59px;
+    background-color: #333333;
+}
+
+.iconImg {
+    margin: 40px 0 0 80px;
+}
+
+.iconDes {
+    margin: 30px 0 0 73px;
+    font-weight: normal;
+}
